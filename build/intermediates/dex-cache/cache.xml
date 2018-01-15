@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b50e7e4f4ee22ffb92dc32f79d03ad3ecb8e01d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_69a9120b6e4cdf3ed998bba6a2a5059e81c0aa6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9d053473b4fe4bd8561c24bc8ea25422495ed167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5dff4ecec730429e84dfa9006d641ec0051f47f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_92927d2b5984f6cb7a729fc8949830ae5cc15151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4961efbce9069626fff131b651d57fdf3573bbf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e581d74aac0cf4bce05924195fac6b164141788b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6868cd1780022da18362a72646204e76791f7521">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99c59a4a6db4aceeaf9a434a39b731d7a187e4c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7f06652a00258afc9a3c16869b4653b621cb4084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_57db4acddade29254f0609fd99abf5d14d7cd9e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a3d31bd1b6efc53f5c1c606ae9138a971fb1c5bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d00ff235036dbf843d96249e93385719939dd50b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a4a72d75b44d7f09d021966d8d76f89e01a0f7e4">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66383c57d068cfe61375fd6b36067421e8456b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a13d7832a8b87b2fb3c6e1874a76b46b61c21084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_394949a65b6cfe005b098f460cb0aae897f1958f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_97ea714c7a4b6dba815d48e0e6700a9bffda575d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/trancoso/AndroidStudioProjects/Projet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_86fb05abed4396703c8ed715d7916e2a71c8967b/classes.dex" />
+    </item>
+
+</items>

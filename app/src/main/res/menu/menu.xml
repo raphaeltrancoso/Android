@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item  android:id="@+id/modifierJeuMenu"
+        android:title="Modifier Jeu"
+        app:showAsAction="never"/>
+    <item  android:id="@+id/quitterMenu"
+        android:title="Quitter"
+        app:showAsAction="never"/>
+    <item  android:id="@+id/jouerMenu"
+        android:title="Jouer"
+        app:showAsAction="ifRoom"/>
+</menu>
